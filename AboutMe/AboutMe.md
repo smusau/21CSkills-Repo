@@ -1,9 +1,9 @@
 
-**NAME: SILVESTER MUSAU**
+**TITLE: WEEK-FOUR-ASSIGNMENT**
 
 **GIT LINK:** *https://github.com/smusau/21CSkills-Repo/tree/week-four-assignment*
 
-**TITLE:WEEK-FOUR-ASSIGNMENT**
+**NAME: SILVESTER MUSAU**
 
 I am a qualified professional in the field of Information Communication Technology with relevant experience in this field.
 Am multi skilled, flexible, proactive worker with extensive Administrative, Procurement, Technical and Operations experience
