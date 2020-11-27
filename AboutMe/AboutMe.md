@@ -11,10 +11,10 @@ in Internet/Datacenter service provider environment.
 
 **SKILLS**
 
-Effective communication skills verbal and written.
-Strong focus on building relationships internal and external
-Problem solving skills / analytical thinking.
-Strong customer support and client relation skills.
+- Effective communication skills verbal and written.
+- Strong focus on building relationships internal and external
+- Problem solving skills / analytical thinking.
+- Strong customer support and client relation skills.
 
 
 
