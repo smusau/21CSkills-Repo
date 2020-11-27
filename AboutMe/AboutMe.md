@@ -1,4 +1,5 @@
-**NAME: SILVESTER MUSAU **
+
+**NAME: SILVESTER MUSAU**
 
 **GIT LINK:** *https://github.com/smusau/21CSkills-Repo/tree/week-four-assignment*
 
@@ -9,6 +10,7 @@ Am multi skilled, flexible, proactive worker with extensive Administrative, Proc
 in Internet/Datacenter service provider environment.
 
 **SKILLS**
+
 Effective communication skills verbal and written.
 Strong focus on building relationships internal and external
 Problem solving skills / analytical thinking.
