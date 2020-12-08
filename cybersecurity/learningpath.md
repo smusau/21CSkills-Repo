@@ -18,7 +18,7 @@
  - Editing Md file with git.
  - Creating Pull request on git.
 
-** 2. On Cybersecurity Course.**
+**2. On Cybersecurity Course.**
 
  - [x] Enterprise Security Fundamentals.
  - [ ] Threat Detection: Planning for a Secure Enterprise.
